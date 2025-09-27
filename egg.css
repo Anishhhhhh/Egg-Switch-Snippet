@@ -24,7 +24,7 @@
             .egg {
                 position: absolute;
                 left: 4px;
-                top: 4px;
+                top: 8px;
                 z-index: 1;
                 animation: egg 2s linear forwards;
                 transform-style: preserve-3d;
@@ -276,4 +276,5 @@ body {
             fill: white;
         }
     }
+
 }
